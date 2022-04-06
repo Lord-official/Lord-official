@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Lord-official"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=Hi!+im+a+Newbie😼;Don't+bully+me+>//<" alt="UwU">
+  <a href="https://github.com/Lord-official"><img src="http://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&multiline=false&lines=HI+I+AM+Lord-official;Hi!+im+a+Newbie😼" alt="UwU">
 </p>
 
 ---------
